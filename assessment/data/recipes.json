@@ -1,0 +1,158 @@
+[
+  {
+    "recipeId": "57D0839E-D6D8-418A-8AEF-F1C0E197819C",
+    "authorId": "39FEFB0D-8A94-4645-9012-6FCAF54EB2E3",
+    "title": "Pancetta Kevin",
+    "ingredients": [
+      "Pizza Seasoning",
+      "Thyme",
+      "Earthnut pea",
+      "Fajita Seasoning",
+      "Duck Liver",
+      "Gumbo File"
+    ],
+    "prepTime": "4 hrs",
+    "cookTime": "15 hrs"
+  },
+  {
+    "recipeId": "725C9052-1634-4D40-B61E-2BA260E52F29",
+    "authorId": "89535ED5-1101-41F0-BFB6-1736CB08F581",
+    "title": "Flank Venison",
+    "ingredients": [
+      "Goat",
+      "Blood Orange",
+      "Fig",
+      "Sweet Potato",
+      "Squab",
+      "Pear",
+      "Melon",
+      "Cayenne Pepper"
+    ],
+    "prepTime": "1.5 hrs",
+    "cookTime": "4 hrs"
+  },
+  {
+    "recipeId": "25A01028-D13B-40FF-9D80-307318E7C035",
+    "authorId": "D866CC99-551D-495B-8E6F-028602D45852",
+    "title": "Fatback Salami",
+    "ingredients": [
+      "Cajun Spice",
+      "Rock melon",
+      "Mutton",
+      "Tinda",
+      "Taco Seasoning",
+      "Sweet Potato",
+      "Grape",
+      "Fat hen",
+      "Beef liver",
+      "Turmeric"
+    ],
+    "prepTime": "1.5 hrs",
+    "cookTime": "45 mins"
+  },
+  {
+    "recipeId": "6374878C-2751-43BD-95A2-B229817EDAC0",
+    "authorId": "AA57731B-93E0-4B45-939B-5910FE057F0E",
+    "title": "Hamburger Chicken",
+    "ingredients": [
+      "Strawberry",
+      "Squirrel",
+      "Fluted pumpkin",
+      "Beef",
+      "Oregano",
+      "Bear",
+      "Rosemary",
+      "Pumpkin Pie Spice"
+    ],
+    "prepTime": "15 mins",
+    "cookTime": "1.5 hrs"
+  },
+  {
+    "recipeId": "8D963B93-918E-4052-9110-71699942D710",
+    "authorId": "D562FAE8-7BBF-4B97-A741-9BCCEF2AB8B2",
+    "title": "Landjaeger Andouille",
+    "ingredients": [
+      "Apple",
+      "Pork, Bacon",
+      "Turnip",
+      "Poultry Seasoning"
+    ],
+    "prepTime": "25 mins",
+    "cookTime": "3 hrs"
+  },
+  {
+    "recipeId": "8045CBC1-81D6-4577-B430-D18D563597CF",
+    "authorId": "EB462E63-B23F-426C-9944-D4B7C09F5717",
+    "title": "Capicola Kielbasa",
+    "ingredients": [
+      "Arrowroot",
+      "Goat",
+      "Swiss chard",
+      "Onion"
+    ],
+    "prepTime": "25 mins",
+    "cookTime": "15 mins"
+  },
+  {
+    "recipeId": "F876D932-954E-49DE-B3C4-AD2468490675",
+    "authorId": "BCAE01B5-2D6C-47C1-A387-61FFA1D494A4",
+    "title": "Jerky Chicken",
+    "ingredients": [
+      "Tripe",
+      "Grouse",
+      "Allspice"
+    ],
+    "prepTime": "45 mins",
+    "cookTime": "45 mins"
+  },
+  {
+    "recipeId": "AB5C0C71-5306-4F15-9007-5AE8A56C19CF",
+    "authorId": "D562FAE8-7BBF-4B97-A741-9BCCEF2AB8B2",
+    "title": "Jowl Meatball",
+    "ingredients": [
+      "Chives",
+      "Allspice",
+      "Celeriac",
+      "Poppy Seed",
+      "Salad Herbs",
+      "Pork, Bacon",
+      "Elephant Foot yam",
+      "Bay Leaf"
+    ],
+    "prepTime": "25 mins",
+    "cookTime": "6 hrs"
+  },
+  {
+    "recipeId": "2A927B63-3071-4DE9-A753-E5D79A7E3351",
+    "authorId": "D562FAE8-7BBF-4B97-A741-9BCCEF2AB8B2",
+    "title": "Corned Beef Strip Steak",
+    "ingredients": [
+      "Marrow soup",
+      "Physalis",
+      "Emu",
+      "Kangaroo",
+      "Pomegranate",
+      "Calf liver",
+      "Sea grape",
+      "Partridge",
+      "Ginger"
+    ],
+    "prepTime": "6 hrs",
+    "cookTime": "6 hrs"
+  },
+  {
+    "recipeId": "B76164DF-F441-4D30-B366-3BB5F8C26D53",
+    "authorId": "BCAE01B5-2D6C-47C1-A387-61FFA1D494A4",
+    "title": "Turkey Chicken",
+    "ingredients": [
+      "Lamb's lettuce",
+      "Beef tongue",
+      "Pizza Seasoning",
+      "Tripe",
+      "Grouse",
+      "Cloves"
+    ],
+    "prepTime": "25 mins",
+    "cookTime": "30 mins"
+  }
+]

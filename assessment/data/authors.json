@@ -1,0 +1,80 @@
+[
+  {
+    "authorId": "2D2508F0-0821-4DEA-882B-B7EFB0B75E6D",
+    "name": "Garret Gutmann",
+    "specialties": [
+      "96F25FD3-3278-4D32-B886-FEF8839D8E37",
+      "7A58886C-4297-4FF9-8201-BAE843C5CA3F"
+    ]
+  },
+  {
+    "authorId": "39FEFB0D-8A94-4645-9012-6FCAF54EB2E3",
+    "name": "Elisabeth Legros",
+    "specialties": [
+      "96F25FD3-3278-4D32-B886-FEF8839D8E37"
+    ]
+  },
+  {
+    "authorId": "22C527B3-AD63-4A05-AF11-7D102CFC7ED2",
+    "name": "Margarita Rosenbaum",
+    "specialties": [
+      "87B0813B-075B-4CB9-A502-72ACC8D474E0"
+    ]
+  },
+  {
+    "authorId": "D562FAE8-7BBF-4B97-A741-9BCCEF2AB8B2",
+    "name": "Olin Torp",
+    "specialties": [
+      "2A808EAB-26F6-4E75-B954-6424BE3F2195",
+      "8C72865A-1E92-47E7-A02F-42C338A1E186",
+      "C709A4BE-8561-4EE9-B035-EA65A67B7AD7"
+    ]
+  },
+  {
+    "authorId": "89535ED5-1101-41F0-BFB6-1736CB08F581",
+    "name": "Lilly Walsh"
+  },
+  {
+    "authorId": "D866CC99-551D-495B-8E6F-028602D45852",
+    "name": "Jennie Mueller",
+    "specialties": [
+      "96F25FD3-3278-4D32-B886-FEF8839D8E37",
+      "833F7672-6CCC-48CA-BFB3-E5542D369CB4",
+      "2A808EAB-26F6-4E75-B954-6424BE3F2195"
+    ]
+  },
+  {
+    "authorId": "AA57731B-93E0-4B45-939B-5910FE057F0E",
+    "name": "Adelle Schoen",
+    "specialties": [
+      "EA9FB1E1-CD5C-4FB4-8943-FB976C82D7AE",
+      "833F7672-6CCC-48CA-BFB3-E5542D369CB4"
+    ]
+  },
+  {
+    "authorId": "BCAE01B5-2D6C-47C1-A387-61FFA1D494A4",
+    "name": "Andree Swaniawski",
+    "specialties": [
+      "C709A4BE-8561-4EE9-B035-EA65A67B7AD7",
+      "2A808EAB-26F6-4E75-B954-6424BE3F2195",
+      "96F25FD3-3278-4D32-B886-FEF8839D8E37"
+    ]
+  },
+  {
+    "authorId": "ECFB097D-7F05-48FF-AE7B-5E8C20AEBE8C",
+    "name": "Jefferey Raynor",
+    "specialties": [
+      "C709A4BE-8561-4EE9-B035-EA65A67B7AD7",
+      "B893F46C-1DF5-49E7-8EF1-BF229935852C",
+      "96F25FD3-3278-4D32-B886-FEF8839D8E37"
+    ]
+  },
+  {
+    "authorId": "EB462E63-B23F-426C-9944-D4B7C09F5717",
+    "name": "Lindsey Hoeger",
+    "specialties": [
+      "EA9FB1E1-CD5C-4FB4-8943-FB976C82D7AE",
+      "C709A4BE-8561-4EE9-B035-EA65A67B7AD7"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "specialtyId": "833F7672-6CCC-48CA-BFB3-E5542D369CB4",
+    "specialty": "Baked Goods"
+  },
+  {
+    "specialtyId": "87B0813B-075B-4CB9-A502-72ACC8D474E0",
+    "specialty": "Sous Vide"
+  },
+  {
+    "specialtyId": "8C72865A-1E92-47E7-A02F-42C338A1E186",
+    "specialty": "Low & Slow"
+  },
+  {
+    "specialtyId": "2A808EAB-26F6-4E75-B954-6424BE3F2195",
+    "specialty": "Desserts"
+  },
+  {
+    "specialtyId": "EA9FB1E1-CD5C-4FB4-8943-FB976C82D7AE",
+    "specialty": "Side Dishes"
+  },
+  {
+    "specialtyId": "96F25FD3-3278-4D32-B886-FEF8839D8E37",
+    "specialty": "Wild Game"
+  },
+  {
+    "specialtyId": "7A58886C-4297-4FF9-8201-BAE843C5CA3F",
+    "specialty": "Brines & Rubs"
+  },
+  {
+    "specialtyId": "C709A4BE-8561-4EE9-B035-EA65A67B7AD7",
+    "specialty": "Cold Smoking"
+  },
+  {
+    "specialtyId": "B893F46C-1DF5-49E7-8EF1-BF229935852C",
+    "specialty": "Cheese"
+  },
+  {
+    "specialtyId": "CAB55081-EA11-4AE5-BC5A-433641B31A04",
+    "specialty": "Vegetarian Dishes"
+  }
+]
